@@ -1,2 +1,2 @@
-
--DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/digi/sim_ws/gszi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/digi/sim_ws/gszi/catkin_ws/install -G Unix Makefiles
+agazebd01:amegold01
+-DCATKIN_DEVEL_PREFIX=/home/digi/sim_ws/gszi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/digi/sim_ws/gszi/catkin_ws/install -G Unix Makefiles

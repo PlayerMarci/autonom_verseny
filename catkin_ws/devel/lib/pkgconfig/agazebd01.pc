@@ -1,0 +1,8 @@
+prefix=/home/digi/sim_ws/gszi/catkin_ws/devel
+
+Name: agazebd01
+Description: Description of agazebd01
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
