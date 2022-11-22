@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "agazebd01")
 set(agazebd01_VERSION "0.0.0")
-set(agazebd01_MAINTAINER "digi <digi@todo.todo>")
+set(agazebd01_MAINTAINER "Szabo Marton <marton@szabomarci.hu>, Varro Mate Istvan <imate200507@gmail.com>, Toth Adam <tothadam1010@gmail.com>")
 set(agazebd01_PACKAGE_FORMAT "2")
 set(agazebd01_BUILD_DEPENDS "rospy" "std_msgs")
 set(agazebd01_BUILD_EXPORT_DEPENDS "rospy" "std_msgs")

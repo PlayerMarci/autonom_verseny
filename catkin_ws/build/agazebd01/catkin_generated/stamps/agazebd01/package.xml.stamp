@@ -6,14 +6,19 @@
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
-  <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="digi@todo.todo">digi</maintainer>
+  <!-- <maintainer email="marton@szabomarci.hu">Szabo Marton</maintainer> -->
+  <maintainer email="marton@szabomarci.hu">Szabo Marton</maintainer>
+  <!-- <maintainer email="imate200507@gmail.com">Varro Mate Istvan</maintainer> -->
+  <maintainer email="imate200507@gmail.com">Varro Mate Istvan</maintainer>
+  <!-- <maintainer email="tothadam1010@gmail.com">Toth Adam</maintainer> -->
+  <maintainer email="tothadam1010@gmail.com">Toth Adam</maintainer>
+  
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
   <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-  <license>TODO</license>
+  <license>BSD</license>
 
 
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
